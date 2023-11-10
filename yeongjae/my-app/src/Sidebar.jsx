@@ -1,4 +1,5 @@
 import './css/sb-admin-2.css';
+import './css/sb-admin-2.min.css';
 
 function Sidebar() {
     return (
